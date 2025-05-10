@@ -3,6 +3,16 @@
 A Ruby script for generating gong sounds and timers.
 This program creates synthesized gong (tam-tam) sounds and includes a simple timer functionality.
 
+        .-""""-.
+      /        \\
+      |   (())   |
+      |          |
+      \\        /
+        '------'
+          |  |
+          |  |
+        /    \\
+
 ## Features
 
 - Generates gong sounds that mimic physical acoustic properties
